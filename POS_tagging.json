@@ -1,0 +1,5114 @@
+﻿[
+    [
+        [
+            "Цель",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "задания",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Создать",
+            "INFN,perf,tran"
+        ],
+        [
+            "версию",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "мобильного",
+            "ADJF,Qual masc,sing,gent"
+        ],
+        [
+            "приложения",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "городов-франшиз",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "Для",
+            "PREP"
+        ],
+        [
+            "всех",
+            "ADJF,Subx,Apro plur,gent"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            "Порядок",
+            "NOUN,inan,masc sing,accs"
+        ],
+        [
+            "очереди",
+            "NOUN,inan,femn sing,loct"
+        ],
+        [
+            "запуска",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "моб",
+            "UNKN"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "приложений",
+            "NOUN,inan,neut plur,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Екб",
+            "UNKN"
+        ],
+        [
+            "2",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Пермь",
+            "NOUN,inan,femn,Sgtm,Geox sing,accs"
+        ],
+        [
+            "3",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Шерегеш",
+            "NOUN,anim,masc,Name sing,nomn"
+        ],
+        [
+            "4",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Ташкент",
+            "NOUN,inan,masc,Geox sing,nomn"
+        ],
+        [
+            "5",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Тюмень",
+            "NOUN,inan,femn,Sgtm,Geox sing,nomn"
+        ],
+        [
+            "6",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Новокузнецк",
+            "NOUN,inan,masc,Geox sing,nomn"
+        ],
+        [
+            "7",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Алматы",
+            "NOUN,inan,masc,Sgtm,Fixd,Geox sing,gent"
+        ],
+        [
+            "8",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Томск",
+            "NOUN,inan,masc,Geox sing,nomn"
+        ],
+        [
+            "9",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Кемерово",
+            "NOUN,inan,neut,Sgtm,Geox sing,loct,Infr"
+        ],
+        [
+            "10",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Барнаул",
+            "NOUN,inan,masc,Geox sing,nomn"
+        ],
+        [
+            "11",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Омск",
+            "NOUN,inan,masc,Geox sing,nomn"
+        ],
+        [
+            "!",
+            "PNCT"
+        ],
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "согласовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "сроки",
+            "NOUN,inan,masc plur,accs"
+        ],
+        [
+            "выполнения",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "задач",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "отчета",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "перед",
+            "PREP"
+        ],
+        [
+            "начальством",
+            "NOUN,inan,neut sing,ablt"
+        ],
+        [
+            "!",
+            "PNCT"
+        ],
+        [
+            "!",
+            "PNCT"
+        ],
+        [
+            "Все",
+            "PRCL"
+        ],
+        [
+            "обновления",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "выкладываем",
+            "VERB,impf,tran plur,1per,pres,indc"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "коммитим",
+            "NOUN,anim,masc,Name sing,nomn"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "ГитХабе",
+            "NOUN,inan,masc,Geox sing,loct"
+        ],
+        [
+            "!",
+            "PNCT"
+        ],
+        [
+            "!",
+            "PNCT"
+        ],
+        [
+            "Все",
+            "PRCL"
+        ],
+        [
+            "задания",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "тестируются",
+            "VERB,impf,intr plur,3per,pres,indc"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "вашей",
+            "ADJF,Apro femn,sing,gent"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "нашей",
+            "ADJF,Apro femn,sing,gent"
+        ],
+        [
+            "стороны",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "!",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Версия",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "города",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "мобильного",
+            "ADJF,Qual masc,sing,gent"
+        ],
+        [
+            "приложения",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "заключается",
+            "VERB,impf,intr sing,3per,pres,indc"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "том",
+            "ADJF,Subx,Apro,Anph neut,sing,loct"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "что",
+            "CONJ"
+        ],
+        [
+            "это",
+            "PRCL"
+        ],
+        [
+            "одно",
+            "ADJF,Apro,Anum neut,sing,accs"
+        ],
+        [
+            "приложение",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            "со",
+            "PREP Vpre"
+        ],
+        [
+            "всеми",
+            "ADJF,Subx,Apro plur,ablt"
+        ],
+        [
+            "городами",
+            "NOUN,inan,masc plur,ablt"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "но",
+            "CONJ"
+        ],
+        [
+            "своими",
+            "ADJF,Apro,Anph plur,ablt"
+        ],
+        [
+            "особенностями",
+            "NOUN,inan,femn plur,ablt"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "общими",
+            "ADJF plur,ablt"
+        ],
+        [
+            "чертами",
+            "NOUN,inan,femn plur,ablt"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Общие",
+            "ADJF plur,nomn"
+        ],
+        [
+            "черты",
+            "NOUN,inan,femn plur,nomn"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "При",
+            "PREP"
+        ],
+        [
+            "авторизации",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "ввода",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "телефона",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "гостю",
+            "NOUN,anim,masc sing,datv"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "будет",
+            "VERB,impf,intr sing,3per,futr,indc"
+        ],
+        [
+            "выбрать",
+            "INFN,perf,tran"
+        ],
+        [
+            "город",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "из",
+            "PREP"
+        ],
+        [
+            "выпадающего",
+            "PRTF,impf,intr,pres,actv masc,sing,gent"
+        ],
+        [
+            "окна-списка",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "котором",
+            "ADJF,Subx,Apro,Anph masc,sing,loct"
+        ],
+        [
+            "он",
+            "NPRO,masc,3per,Anph sing,nomn"
+        ],
+        [
+            "делает",
+            "VERB,impf,tran sing,3per,pres,indc"
+        ],
+        [
+            "заказы",
+            "NOUN,inan,masc plur,accs"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Макет",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "окна",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Также",
+            "PRCL"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "ЛИЧНОМ",
+            "ADJF,Qual masc,sing,loct"
+        ],
+        [
+            "КАБИНЕТЕ",
+            "NOUN,inan,masc sing,loct"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "переключение",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            "между",
+            "PREP"
+        ],
+        [
+            "городами",
+            "NOUN,inan,masc plur,ablt"
+        ],
+        [
+            "также",
+            "PRCL"
+        ],
+        [
+            "как",
+            "CONJ"
+        ],
+        [
+            "на",
+            "PREP"
+        ],
+        [
+            "макете",
+            "NOUN,inan,masc sing,loct"
+        ],
+        [
+            "выпадающем",
+            "PRTF,impf,intr,pres,actv masc,sing,loct"
+        ],
+        [
+            "окном",
+            "NOUN,inan,neut sing,ablt"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "Макеты",
+            "NOUN,inan,masc plur,nomn"
+        ],
+        [
+            "немного",
+            "ADVB"
+        ],
+        [
+            "отличаются",
+            "VERB,impf,intr plur,3per,pres,indc"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Кнопку",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "переключения",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "сделать",
+            "INFN,perf,tran"
+        ],
+        [
+            "между",
+            "PREP"
+        ],
+        [
+            "полями",
+            "NOUN,inan,neut plur,ablt"
+        ],
+        [
+            "“",
+            "PNCT"
+        ],
+        [
+            "Ваши",
+            "ADJF,Apro plur,nomn"
+        ],
+        [
+            "заказы",
+            "NOUN,inan,masc plur,accs"
+        ],
+        [
+            "”",
+            "PNCT"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "“",
+            "PNCT"
+        ],
+        [
+            "Выйти",
+            "INFN,perf,intr"
+        ],
+        [
+            "”",
+            "PNCT"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "При",
+            "PREP"
+        ],
+        [
+            "переключении",
+            "NOUN,inan,neut sing,loct"
+        ],
+        [
+            "городов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "учитывать",
+            "INFN,impf,tran"
+        ],
+        [
+            "чтобы",
+            "CONJ"
+        ],
+        [
+            "корзина",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "всегда",
+            "ADVB"
+        ],
+        [
+            "чистилась",
+            "VERB,impf,intr femn,sing,past,indc"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "если",
+            "CONJ"
+        ],
+        [
+            "она",
+            "NPRO,femn,3per,Anph sing,nomn"
+        ],
+        [
+            "не",
+            "PRCL"
+        ],
+        [
+            "пустая",
+            "ADJF,Qual femn,sing,nomn"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "отображался",
+            "VERB,impf,intr masc,sing,past,indc"
+        ],
+        [
+            "список",
+            "NOUN,inan,masc sing,accs"
+        ],
+        [
+            "блюд",
+            "NOUN,inan,neut plur,gent"
+        ],
+        [
+            "характерный",
+            "ADJF,Qual masc,sing,nomn"
+        ],
+        [
+            "данному",
+            "PRTF,perf,tran,past,pssv masc,sing,datv"
+        ],
+        [
+            "региону",
+            "NOUN,inan,masc sing,datv"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Также",
+            "PRCL"
+        ],
+        [
+            "не",
+            "PRCL"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "делать",
+            "INFN,impf,tran"
+        ],
+        [
+            "переавторизацию",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "случае",
+            "NOUN,inan,masc sing,loct"
+        ],
+        [
+            "смены",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "городов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "гостю",
+            "NOUN,anim,masc sing,datv"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Так",
+            "CONJ"
+        ],
+        [
+            "как",
+            "CONJ"
+        ],
+        [
+            "города",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "делаем",
+            "VERB,impf,tran plur,1per,pres,indc"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "очереди",
+            "NOUN,inan,femn sing,loct"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "сделать",
+            "INFN,perf,tran"
+        ],
+        [
+            "остальные",
+            "ADJF,Subx,Apro plur,nomn"
+        ],
+        [
+            "города",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "неактивными",
+            "ADJF plur,ablt"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "мере",
+            "NOUN,inan,femn sing,datv"
+        ],
+        [
+            "включения",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "будем",
+            "VERB,impf,intr plur,1per,futr,indc"
+        ],
+        [
+            "делать",
+            "INFN,impf,tran"
+        ],
+        [
+            "активными",
+            "ADJF,Qual plur,ablt"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "При",
+            "PREP"
+        ],
+        [
+            "переключении",
+            "NOUN,inan,neut sing,loct"
+        ],
+        [
+            "меняется",
+            "VERB,impf,intr sing,3per,pres,indc"
+        ],
+        [
+            "домен",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "“",
+            "PNCT"
+        ],
+        [
+            "названием",
+            "NOUN,inan,neut sing,ablt"
+        ],
+        [
+            "города",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "”",
+            "PNCT"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "как",
+            "CONJ"
+        ],
+        [
+            "сделано",
+            "PRTS,perf,past,pssv neut,sing"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "сайтов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "это",
+            "PRCL"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "2",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Сделать",
+            "INFN,perf,tran"
+        ],
+        [
+            "авторизацию",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "выбором",
+            "NOUN,inan,masc sing,ablt"
+        ],
+        [
+            "города",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "перед",
+            "PREP"
+        ],
+        [
+            "входом",
+            "NOUN,inan,masc sing,ablt"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "приложении",
+            "NOUN,inan,neut sing,loct"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "3",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Все",
+            "PRCL"
+        ],
+        [
+            "блюда",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "подгружаются",
+            "VERB,impf,intr plur,3per,pres,indc"
+        ],
+        [
+            "из",
+            "PREP"
+        ],
+        [
+            "одной",
+            "ADJF,Apro,Anum femn,sing,gent"
+        ],
+        [
+            "базы",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "данных",
+            "NOUN,inan,GNdr,Pltm plur,gent"
+        ],
+        [
+            "соответственно",
+            "ADVB"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "админ",
+            "NOUN,anim,masc,Slng sing,nomn"
+        ],
+        [
+            "панель",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "одна",
+            "ADJF,Apro,Anum femn,sing,nomn"
+        ],
+        [
+            "на",
+            "PREP"
+        ],
+        [
+            "всех",
+            "ADJF,Subx,Apro plur,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "создания",
+            "NOUN,inan,neut,Inmx sing,gent"
+        ],
+        [
+            "блюда",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "админ",
+            "NOUN,anim,masc,Slng sing,nomn"
+        ],
+        [
+            "панели",
+            "NOUN,inan,femn plur,nomn"
+        ],
+        [
+            "изменить",
+            "INFN,perf,tran"
+        ],
+        [
+            "логику",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "ценника",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "каждого",
+            "ADJF,Subx,Apro masc,sing,gent"
+        ],
+        [
+            "нового",
+            "ADJF,Qual neut,sing,gent"
+        ],
+        [
+            "города",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "должно",
+            "ADJS neut,sing"
+        ],
+        [
+            "добавляться",
+            "INFN,impf,intr"
+        ],
+        [
+            "поле",
+            "NOUN,inan,neut sing,loct"
+        ],
+        [
+            "цены",
+            "NOUN,inan,femn plur,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Если",
+            "CONJ"
+        ],
+        [
+            "стоимость",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "поле",
+            "NOUN,inan,neut sing,loct"
+        ],
+        [
+            "<",
+            "UNKN"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            "или",
+            "CONJ"
+        ],
+        [
+            "оно",
+            "NPRO,neut,3per,Anph sing,nomn"
+        ],
+        [
+            "пустое",
+            "ADJF,Qual neut,sing,nomn"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "то",
+            "CONJ"
+        ],
+        [
+            "мы",
+            "NPRO,1per plur,nomn"
+        ],
+        [
+            "не",
+            "PRCL"
+        ],
+        [
+            "отображаем",
+            "VERB,impf,tran plur,1per,pres,indc"
+        ],
+        [
+            "блюдо",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "блюдо",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            "отображается",
+            "VERB,impf,intr sing,3per,pres,indc"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "городе",
+            "NOUN,inan,masc sing,loct"
+        ],
+        [
+            "если",
+            "CONJ"
+        ],
+        [
+            "введена",
+            "PRTS,perf,past,pssv femn,sing"
+        ],
+        [
+            "стоимость",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Также",
+            "PRCL"
+        ],
+        [
+            "стоит",
+            "VERB,impf,intr,Impe sing,pres,indc"
+        ],
+        [
+            "учесть",
+            "INFN,perf,tran"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "что",
+            "CONJ"
+        ],
+        [
+            "не",
+            "PRCL"
+        ],
+        [
+            "все",
+            "PRCL"
+        ],
+        [
+            "продаже",
+            "NOUN,inan,femn sing,loct"
+        ],
+        [
+            "осуществляются",
+            "VERB,impf,intr plur,3per,pres,indc"
+        ],
+        [
+            "рублями",
+            "NOUN,inan,masc plur,ablt"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "Ташкента",
+            "NOUN,inan,masc,Geox sing,gent"
+        ],
+        [
+            "внести",
+            "INFN,perf,tran"
+        ],
+        [
+            "валюту",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Сум",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "Алматы",
+            "NOUN,inan,masc,Sgtm,Fixd,Geox sing,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Тенге",
+            "NOUN,anim,masc sing,loct"
+        ],
+        [
+            "*",
+            "PNCT"
+        ],
+        [
+            "Также",
+            "PRCL"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "исправить",
+            "INFN,perf,tran"
+        ],
+        [
+            "баг",
+            "NOUN,inan,masc sing,accs"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "админки",
+            "NOUN,anim,masc plur,nomn"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "модификаторов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "блюд",
+            "NOUN,inan,neut plur,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "чтобы",
+            "CONJ"
+        ],
+        [
+            "удаление",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            "модификатора",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "происходило",
+            "VERB,impf,intr neut,sing,past,indc"
+        ],
+        [
+            "не",
+            "PRCL"
+        ],
+        [
+            "полностью",
+            "ADVB"
+        ],
+        [
+            "базы",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "админки",
+            "NOUN,anim,masc plur,nomn"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "а",
+            "CONJ"
+        ],
+        [
+            "удалением",
+            "NOUN,inan,neut sing,ablt"
+        ],
+        [
+            "ИЗ",
+            "PREP"
+        ],
+        [
+            "блюда",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "только",
+            "ADVB"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "4",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Создать",
+            "INFN,perf,tran"
+        ],
+        [
+            "единый",
+            "ADJF,Qual masc,sing,nomn"
+        ],
+        [
+            "визуальный",
+            "ADJF,Qual masc,sing,nomn"
+        ],
+        [
+            "каркас",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "чтобы",
+            "CONJ"
+        ],
+        [
+            "верстка",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "экранов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "меню",
+            "NOUN,inan,neut,Fixd sing,gent"
+        ],
+        [
+            "при",
+            "PREP"
+        ],
+        [
+            "переключении",
+            "NOUN,inan,neut sing,loct"
+        ],
+        [
+            "городов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "не",
+            "PRCL"
+        ],
+        [
+            "менялась",
+            "VERB,impf,intr femn,sing,past,indc"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "не",
+            "PRCL"
+        ],
+        [
+            "были",
+            "VERB,impf,intr plur,past,indc"
+        ],
+        [
+            "зависимы",
+            "ADJS,Qual plur"
+        ],
+        [
+            "от",
+            "PREP"
+        ],
+        [
+            "городов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Заложить",
+            "INFN,perf,tran"
+        ],
+        [
+            "основы",
+            "NOUN,inan,femn plur,nomn"
+        ],
+        [
+            "идентификации",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "городов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "5",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Информация",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "обратной",
+            "ADJF,Qual femn,sing,gent"
+        ],
+        [
+            "связи",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "городов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "такая",
+            "ADJF,Apro femn,sing,nomn"
+        ],
+        [
+            "же",
+            "PRCL"
+        ],
+        [
+            "как",
+            "CONJ"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "НСК",
+            "UNKN"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Добавить",
+            "INFN,perf,tran"
+        ],
+        [
+            "возможность",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "редактировать",
+            "INFN,impf,tran"
+        ],
+        [
+            "номер",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "телефона",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "обратной",
+            "ADJF,Qual femn,sing,gent"
+        ],
+        [
+            "связи",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "из",
+            "PREP"
+        ],
+        [
+            "админ",
+            "NOUN,anim,masc,Slng sing,nomn"
+        ],
+        [
+            "панели",
+            "NOUN,inan,femn plur,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "также",
+            "PRCL"
+        ],
+        [
+            "добавить",
+            "INFN,perf,tran"
+        ],
+        [
+            "со",
+            "PREP Vpre"
+        ],
+        [
+            "ссылкой",
+            "NOUN,inan,femn sing,ablt"
+        ],
+        [
+            "информацию",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "о",
+            "PREP"
+        ],
+        [
+            "политики",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "конфиденциальности",
+            "NOUN,inan,femn,Sgtm sing,gent"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "пользовательское",
+            "ADJF neut,sing,nomn"
+        ],
+        [
+            "соглашение",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "футере",
+            "NOUN,inan,masc sing,loct"
+        ],
+        [
+            "также",
+            "PRCL"
+        ],
+        [
+            "подписать",
+            "INFN,perf,tran"
+        ],
+        [
+            "наш",
+            "ADJF,Apro masc,sing,nomn"
+        ],
+        [
+            "бренд",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Макет",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Ссылка",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "6",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Очень",
+            "ADVB"
+        ],
+        [
+            "важный",
+            "ADJF,Qual masc,sing,nomn"
+        ],
+        [
+            "пункт",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Стоит",
+            "VERB,impf,intr,Impe sing,pres,indc"
+        ],
+        [
+            "учесть",
+            "INFN,perf,tran"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "франшиз",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            "нет",
+            "PRED,pres"
+        ],
+        [
+            "колл-центров",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "чтобы",
+            "CONJ"
+        ],
+        [
+            "заказы",
+            "NOUN,inan,masc plur,accs"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "наименованием",
+            "NOUN,inan,neut sing,ablt"
+        ],
+        [
+            "блюд",
+            "NOUN,inan,neut plur,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "количеством",
+            "NOUN,inan,neut sing,ablt"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "добавки",
+            "NOUN,inan,femn plur,accs"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "номерами",
+            "NOUN,inan,masc plur,ablt"
+        ],
+        [
+            "телефонов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "т",
+            "ADVB,Dmns Abbr"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "д",
+            "ADVB Abbr"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "падали",
+            "VERB,impf,intr plur,past,indc"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "телеграм",
+            "NOUN,inan,masc,Geox sing,nomn"
+        ],
+        [
+            "чат-бота",
+            "NOUN,inan,masc,Slng sing,accs"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "их",
+            "NPRO,3per,Anph plur,accs"
+        ],
+        [
+            "несколько",
+            "ADVB"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "бот",
+            "NOUN,anim,masc sing,nomn"
+        ],
+        [
+            "уже",
+            "ADVB"
+        ],
+        [
+            "есть",
+            "INFN,impf,tran"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "надо",
+            "PRED,pres"
+        ],
+        [
+            "будет",
+            "VERB,impf,intr sing,3per,futr,indc"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "Артема",
+            "NOUN,anim,masc,Name sing,gent"
+        ],
+        [
+            "запросить",
+            "INFN,perf,tran"
+        ],
+        [
+            "токен",
+            "NOUN,anim,masc,Name sing,nomn"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "шаблону",
+            "NOUN,inan,masc sing,datv"
+        ],
+        [
+            "сделанного",
+            "PRTF,perf,tran,past,pssv neut,sing,gent"
+        ],
+        [
+            "из",
+            "PREP"
+        ],
+        [
+            "сайта",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "После",
+            "PREP"
+        ],
+        [
+            "оплаты",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "также",
+            "PRCL"
+        ],
+        [
+            "надо",
+            "PRED,pres"
+        ],
+        [
+            "сделать",
+            "INFN,perf,tran"
+        ],
+        [
+            "уведомление",
+            "NOUN,inan,neut sing,accs"
+        ],
+        [
+            "об",
+            "PREP Vpre"
+        ],
+        [
+            "успешной",
+            "ADJF,Qual femn,sing,gent"
+        ],
+        [
+            "оплате",
+            "NOUN,inan,femn sing,loct"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "чат-бот",
+            "NOUN,inan,masc,Slng sing,nomn"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "пометкой",
+            "NOUN,inan,femn sing,ablt"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "“",
+            "PNCT"
+        ],
+        [
+            "Оплачен",
+            "PRTS,perf,past,pssv masc,sing"
+        ],
+        [
+            "заказ",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "#",
+            "PNCT"
+        ],
+        [
+            "номер",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "мобильное",
+            "ADJF,Qual neut,sing,nomn"
+        ],
+        [
+            "приложение",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            "”",
+            "PNCT"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "7",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "пространство",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "баннеров",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "макету",
+            "NOUN,inan,masc sing,datv"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "применить",
+            "INFN,perf,tran"
+        ],
+        [
+            "адаптацию",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "размеров",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "загружаемых",
+            "PRTF,impf,tran,pres,pssv plur,gent"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "чтобы",
+            "CONJ"
+        ],
+        [
+            "картинки",
+            "NOUN,inan,femn plur,accs"
+        ],
+        [
+            "всегда",
+            "ADVB"
+        ],
+        [
+            "входили",
+            "VERB,impf,intr plur,past,indc"
+        ],
+        [
+            "полностью",
+            "ADVB"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            "картинок",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            "баннеров",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "под",
+            "PREP"
+        ],
+        [
+            "приложение",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Также",
+            "PRCL"
+        ],
+        [
+            "следует",
+            "VERB,impf,intr sing,3per,pres,indc,Impx"
+        ],
+        [
+            "реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "автоматическое",
+            "ADJF neut,sing,nomn"
+        ],
+        [
+            "перелистывание",
+            "NOUN,inan,neut,Sgtm sing,nomn"
+        ],
+        [
+            "баннеров",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "раз",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "15",
+            "NUMB,intg"
+        ],
+        [
+            "секунд",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "категорию",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "баннеров",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "админ",
+            "NOUN,anim,masc,Slng sing,nomn"
+        ],
+        [
+            "панели",
+            "NOUN,inan,femn plur,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "категории",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "возможность",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "что",
+            "CONJ"
+        ],
+        [
+            "бы",
+            "PRCL"
+        ],
+        [
+            "мы",
+            "NPRO,1per plur,nomn"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "каждом",
+            "ADJF,Subx,Apro masc,sing,loct"
+        ],
+        [
+            "городе",
+            "NOUN,inan,masc sing,loct"
+        ],
+        [
+            "мы",
+            "NPRO,1per plur,nomn"
+        ],
+        [
+            "могли",
+            "VERB,impf,intr plur,past,indc"
+        ],
+        [
+            "добавлять",
+            "INFN,impf,tran"
+        ],
+        [
+            "\\",
+            "PNCT"
+        ],
+        [
+            "удалять",
+            "INFN,impf,tran"
+        ],
+        [
+            "баннеры",
+            "NOUN,inan,masc plur,accs"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "ставить",
+            "INFN,impf,tran"
+        ],
+        [
+            "номер",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "позиции",
+            "NOUN,inan,femn sing,loct"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "порядка",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "отображения",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "То",
+            "CONJ"
+        ],
+        [
+            "как",
+            "CONJ"
+        ],
+        [
+            "это",
+            "PRCL"
+        ],
+        [
+            "будет",
+            "VERB,impf,intr sing,3per,futr,indc"
+        ],
+        [
+            "выглядеть",
+            "INFN,perf,tran"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "категории",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "админ",
+            "NOUN,anim,masc,Slng sing,nomn"
+        ],
+        [
+            "панели",
+            "NOUN,inan,femn plur,nomn"
+        ],
+        [
+            "доверяем",
+            "VERB,impf,tran plur,1per,pres,indc"
+        ],
+        [
+            "вам",
+            "NPRO,2per plur,datv"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "можно",
+            "PRED,pres"
+        ],
+        [
+            "на",
+            "PREP"
+        ],
+        [
+            "вашу",
+            "ADJF,Apro femn,sing,accs"
+        ],
+        [
+            "фантазию",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "удобства",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "минимальной",
+            "ADJF femn,sing,gent"
+        ],
+        [
+            "затраты",
+            "NOUN,inan,femn plur,accs"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "времени",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            "Макет",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Макет",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "демо",
+            "PRTS,impf,pres,pssv neut,sing"
+        ],
+        [
+            "версии",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "ЕКБ",
+            "UNKN"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "В",
+            "PREP"
+        ],
+        [
+            "корзине",
+            "NOUN,inan,femn sing,datv"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "протестить",
+            "INFN,perf,tran"
+        ],
+        [
+            "поиск",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "адресов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "внутри",
+            "PREP"
+        ],
+        [
+            "Екб",
+            "UNKN"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "карты",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "передам",
+            "VERB,perf,tran sing,1per,futr,indc"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Карта",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "екб",
+            "UNKN"
+        ],
+        [
+            "отлична",
+            "ADJS,Qual femn,sing"
+        ],
+        [
+            "от",
+            "PREP"
+        ],
+        [
+            "новосибирска",
+            "NOUN,inan,masc,Geox sing,gent"
+        ],
+        [
+            "тем",
+            "CONJ"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "что",
+            "CONJ"
+        ],
+        [
+            "зоны",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "ней",
+            "NPRO,femn,3per,Anph sing,loct,Af-p"
+        ],
+        [
+            "автораспределяются",
+            "VERB,impf,intr plur,3per,pres,indc"
+        ],
+        [
+            "от",
+            "PREP"
+        ],
+        [
+            "точек",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            "собирания",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "например",
+            "CONJ,Prnt"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "новосибирске",
+            "NOUN,inan,masc,Geox sing,loct"
+        ],
+        [
+            "точка",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "одна",
+            "ADJF,Apro,Anum femn,sing,nomn"
+        ],
+        [
+            "на",
+            "PREP"
+        ],
+        [
+            "данный",
+            "ADJF,Apro inan,masc,sing,accs"
+        ],
+        [
+            "момент",
+            "NOUN,inan,masc sing,accs"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Тут",
+            "ADVB,Dmns"
+        ],
+        [
+            "вам",
+            "NPRO,2per plur,datv"
+        ],
+        [
+            "советую",
+            "VERB,impf,intr sing,1per,pres,indc"
+        ],
+        [
+            "поговорить",
+            "INFN,perf,intr"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "Артемом",
+            "NOUN,anim,masc,Name sing,ablt"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "потому",
+            "ADVB,Dmns"
+        ],
+        [
+            "что",
+            "CONJ"
+        ],
+        [
+            "он",
+            "NPRO,masc,3per,Anph sing,nomn"
+        ],
+        [
+            "реализовал",
+            "VERB,perf,tran masc,sing,past,indc"
+        ],
+        [
+            "это",
+            "PRCL"
+        ],
+        [
+            "на",
+            "PREP"
+        ],
+        [
+            "сайте",
+            "NOUN,inan,masc sing,loct"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "понимает",
+            "VERB,impf,tran sing,3per,pres,indc"
+        ],
+        [
+            "как",
+            "CONJ"
+        ],
+        [
+            "лучше",
+            "COMP,Qual"
+        ],
+        [
+            "сделать",
+            "INFN,perf,tran"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "как",
+            "CONJ"
+        ],
+        [
+            "это",
+            "PRCL"
+        ],
+        [
+            "работает",
+            "VERB,impf,intr sing,3per,pres,indc"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Минимальная",
+            "ADJF femn,sing,nomn"
+        ],
+        [
+            "сумма",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "заказа",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "екб",
+            "UNKN"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "100",
+            "NUMB,intg"
+        ],
+        [
+            "руб",
+            "NOUN,inan,masc,Fixd,Abbr sing,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "2",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "будет",
+            "VERB,impf,intr sing,3per,futr,indc"
+        ],
+        [
+            "интегрировать",
+            "INFN,perf,tran"
+        ],
+        [
+            "экваринг",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "сбера",
+            "NOUN,anim,masc sing,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "который",
+            "ADJF,Subx,Apro,Anph masc,sing,nomn"
+        ],
+        [
+            "уже",
+            "ADVB"
+        ],
+        [
+            "реализован",
+            "PRTS,impf,past,pssv masc,sing"
+        ],
+        [
+            "также",
+            "PRCL"
+        ],
+        [
+            "на",
+            "PREP"
+        ],
+        [
+            "сайте",
+            "NOUN,inan,masc sing,loct"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Чтобы",
+            "CONJ"
+        ],
+        [
+            "подключить",
+            "INFN,perf,tran"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "создать",
+            "INFN,perf,tran"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "или",
+            "CONJ"
+        ],
+        [
+            "привязать",
+            "INFN,perf,tran"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "сайта",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            "поддомен",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "екбшной",
+            "NOUN,anim,masc,Name sing,nomn"
+        ],
+        [
+            "версии",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Также",
+            "PRCL"
+        ],
+        [
+            "стоит",
+            "VERB,impf,intr,Impe sing,pres,indc"
+        ],
+        [
+            "учесть",
+            "INFN,perf,tran"
+        ],
+        [
+            "что",
+            "CONJ"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "сбера",
+            "NOUN,anim,masc sing,gent"
+        ],
+        [
+            "теперь",
+            "ADVB"
+        ],
+        [
+            "новые",
+            "ADJF,Qual plur,nomn"
+        ],
+        [
+            "стандарты",
+            "NOUN,inan,masc plur,nomn"
+        ],
+        [
+            "сертификации",
+            "NOUN,inan,femn sing,datv"
+        ],
+        [
+            "страниц",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "3",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "По",
+            "PREP"
+        ],
+        [
+            "поводу",
+            "NOUN,inan,masc sing,datv"
+        ],
+        [
+            "расписания",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "режима",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "принятия",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "екб",
+            "UNKN"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "учитывать",
+            "INFN,impf,tran"
+        ],
+        [
+            "что",
+            "CONJ"
+        ],
+        [
+            "сдвиг",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "от",
+            "PREP"
+        ],
+        [
+            "текущего",
+            "ADJF masc,sing,gent"
+        ],
+        [
+            "времени",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "времени",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "должен",
+            "ADJS masc,sing"
+        ],
+        [
+            "быть",
+            "INFN,impf,intr"
+        ],
+        [
+            "+",
+            "UNKN"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            "час",
+            "NOUN,inan,masc sing,accs"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "То",
+            "CONJ"
+        ],
+        [
+            "есть",
+            "INFN,impf,tran"
+        ],
+        [
+            "допустим",
+            "VERB,perf,tran plur,1per,futr,indc"
+        ],
+        [
+            "если",
+            "CONJ"
+        ],
+        [
+            "сейчас",
+            "ADVB"
+        ],
+        [
+            "12",
+            "NUMB,intg"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "04",
+            "NUMB,intg"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "то",
+            "CONJ"
+        ],
+        [
+            "заказ",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "на",
+            "PREP"
+        ],
+        [
+            "доставку",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "можно",
+            "PRED,pres"
+        ],
+        [
+            "принять",
+            "INFN,perf,tran"
+        ],
+        [
+            "только",
+            "ADVB"
+        ],
+        [
+            "начиная",
+            "GRND,impf,tran pres"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "13",
+            "NUMB,intg"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "15",
+            "NUMB,intg"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "округляем",
+            "VERB,impf,tran plur,1per,pres,indc"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "большую",
+            "ADJF,Qual femn,sing,accs"
+        ],
+        [
+            "сторону",
+            "NOUN,inan,femn sing,accs"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "запаса",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Для",
+            "PREP"
+        ],
+        [
+            "пн-чт",
+            "NOUN,inan,masc,Fixd,Abbr sing,nomn"
+        ],
+        [
+            "начало",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            "принятия",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "времени",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "12",
+            "NUMB,intg"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "00",
+            "NUMB,intg"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "крайнее",
+            "ADJF neut,sing,nomn"
+        ],
+        [
+            "время",
+            "NOUN,inan,neut sing,accs"
+        ],
+        [
+            "23",
+            "NUMB,intg"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "00",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Пт",
+            "NOUN,inan,femn,Fixd,Abbr sing,nomn"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "12",
+            "NUMB,intg"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "00",
+            "NUMB,intg"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "без",
+            "PREP"
+        ],
+        [
+            "остановки",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "до",
+            "PREP"
+        ],
+        [
+            "Вс",
+            "NOUN,inan,masc,Fixd,Abbr,Orgn plur,nomn"
+        ],
+        [
+            "23",
+            "NUMB,intg"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "00",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "4",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "такие",
+            "ADJF,Apro plur,nomn"
+        ],
+        [
+            "же",
+            "PRCL"
+        ],
+        [
+            "правила",
+            "NOUN,inan,neut plur,accs"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "самовывоза",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "выбором",
+            "NOUN,inan,masc sing,ablt"
+        ],
+        [
+            "точек",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "адресам",
+            "NOUN,inan,masc plur,datv"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Малышева",
+            "NOUN,anim,masc,Sgtm,Surn sing,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "44",
+            "NUMB,intg"
+        ],
+        [
+            "8",
+            "NUMB,intg"
+        ],
+        [
+            "Марта",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "46",
+            "NUMB,intg"
+        ],
+        [
+            "пр",
+            "ADJF,Fixd,Abbr,Apro masc,sing,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Космонавтов",
+            "NOUN,anim,masc plur,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "108",
+            "NUMB,intg"
+        ],
+        [
+            "2",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Пермь",
+            "NOUN,inan,femn,Sgtm,Geox sing,accs"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "В",
+            "PREP"
+        ],
+        [
+            "корзине",
+            "NOUN,inan,femn sing,datv"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "протестить",
+            "INFN,perf,tran"
+        ],
+        [
+            "поиск",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "адресов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "внутри",
+            "PREP"
+        ],
+        [
+            "Перми",
+            "NOUN,inan,femn,Sgtm,Geox sing,loct"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "карты",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "передам",
+            "VERB,perf,tran sing,1per,futr,indc"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Минимальная",
+            "ADJF femn,sing,nomn"
+        ],
+        [
+            "сумма",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "заказа",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "799",
+            "NUMB,intg"
+        ],
+        [
+            "руб",
+            "NOUN,inan,masc,Fixd,Abbr sing,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "2",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "будет",
+            "VERB,impf,intr sing,3per,futr,indc"
+        ],
+        [
+            "интегрировать",
+            "INFN,perf,tran"
+        ],
+        [
+            "экваринг",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "Тинькофф",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "который",
+            "ADJF,Subx,Apro,Anph masc,sing,nomn"
+        ],
+        [
+            "уже",
+            "ADVB"
+        ],
+        [
+            "реализован",
+            "PRTS,impf,past,pssv masc,sing"
+        ],
+        [
+            "также",
+            "PRCL"
+        ],
+        [
+            "на",
+            "PREP"
+        ],
+        [
+            "сайте",
+            "NOUN,inan,masc sing,loct"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Чтобы",
+            "CONJ"
+        ],
+        [
+            "подключить",
+            "INFN,perf,tran"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "создать",
+            "INFN,perf,tran"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "или",
+            "CONJ"
+        ],
+        [
+            "привязать",
+            "INFN,perf,tran"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "сайта",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            "поддомен",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "пермской",
+            "ADJF femn,sing,loct"
+        ],
+        [
+            "версии",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "3",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "По",
+            "PREP"
+        ],
+        [
+            "поводу",
+            "NOUN,inan,masc sing,datv"
+        ],
+        [
+            "расписания",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "режима",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "принятия",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "Перми",
+            "NOUN,inan,femn,Sgtm,Geox sing,loct"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "учитывать",
+            "INFN,impf,tran"
+        ],
+        [
+            "что",
+            "CONJ"
+        ],
+        [
+            "сдвиг",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "от",
+            "PREP"
+        ],
+        [
+            "текущего",
+            "ADJF masc,sing,gent"
+        ],
+        [
+            "времени",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "времени",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "должен",
+            "ADJS masc,sing"
+        ],
+        [
+            "быть",
+            "INFN,impf,intr"
+        ],
+        [
+            "+",
+            "UNKN"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            "час",
+            "NOUN,inan,masc sing,accs"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Ежедневное",
+            "ADJF,Qual neut,sing,nomn"
+        ],
+        [
+            "начало",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            "принятия",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "времени",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "12",
+            "NUMB,intg"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "00",
+            "NUMB,intg"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "крайнее",
+            "ADJF neut,sing,nomn"
+        ],
+        [
+            "время",
+            "NOUN,inan,neut sing,accs"
+        ],
+        [
+            "21",
+            "NUMB,intg"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "00",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "4",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "такие",
+            "ADJF,Apro plur,nomn"
+        ],
+        [
+            "же",
+            "PRCL"
+        ],
+        [
+            "правила",
+            "NOUN,inan,neut plur,accs"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "самовывоза",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "выбором",
+            "NOUN,inan,masc sing,ablt"
+        ],
+        [
+            "точек",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "адресам",
+            "NOUN,inan,masc plur,datv"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Петропавловская",
+            "ADJF femn,sing,nomn"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "73",
+            "NUMB,intg"
+        ],
+        [
+            "а",
+            "CONJ"
+        ],
+        [
+            "3",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Шерегеш",
+            "NOUN,anim,masc,Name sing,nomn"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "В",
+            "PREP"
+        ],
+        [
+            "корзине",
+            "NOUN,inan,femn sing,datv"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "протестить",
+            "INFN,perf,tran"
+        ],
+        [
+            "поиск",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "адресов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "внутри",
+            "PREP"
+        ],
+        [
+            "Шерегеша",
+            "NOUN,anim,masc,Name sing,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "карты",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "передам",
+            "VERB,perf,tran sing,1per,futr,indc"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Минимальная",
+            "ADJF femn,sing,nomn"
+        ],
+        [
+            "сумма",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "заказа",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "799",
+            "NUMB,intg"
+        ],
+        [
+            "руб",
+            "NOUN,inan,masc,Fixd,Abbr sing,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "2",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "будет",
+            "VERB,impf,intr sing,3per,futr,indc"
+        ],
+        [
+            "интегрировать",
+            "INFN,perf,tran"
+        ],
+        [
+            "экваринг",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "уточняю",
+            "VERB,impf,tran sing,1per,pres,indc"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Чтобы",
+            "CONJ"
+        ],
+        [
+            "подключить",
+            "INFN,perf,tran"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "создать",
+            "INFN,perf,tran"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "или",
+            "CONJ"
+        ],
+        [
+            "привязать",
+            "INFN,perf,tran"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "сайта",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            "поддомен",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "пермской",
+            "ADJF femn,sing,loct"
+        ],
+        [
+            "версии",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "3",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "По",
+            "PREP"
+        ],
+        [
+            "поводу",
+            "NOUN,inan,masc sing,datv"
+        ],
+        [
+            "расписания",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "режима",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "принятия",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "Шерегеша",
+            "NOUN,anim,masc,Name sing,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "учитывать",
+            "INFN,impf,tran"
+        ],
+        [
+            "что",
+            "CONJ"
+        ],
+        [
+            "сдвиг",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "от",
+            "PREP"
+        ],
+        [
+            "текущего",
+            "ADJF masc,sing,gent"
+        ],
+        [
+            "времени",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "времени",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "должен",
+            "ADJS masc,sing"
+        ],
+        [
+            "быть",
+            "INFN,impf,intr"
+        ],
+        [
+            "+",
+            "UNKN"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            "час",
+            "NOUN,inan,masc sing,accs"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Ежедневное",
+            "ADJF,Qual neut,sing,nomn"
+        ],
+        [
+            "начало",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            "принятия",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "времени",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "11",
+            "NUMB,intg"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "00",
+            "NUMB,intg"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "крайнее",
+            "ADJF neut,sing,nomn"
+        ],
+        [
+            "время",
+            "NOUN,inan,neut sing,accs"
+        ],
+        [
+            "20",
+            "NUMB,intg"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "30",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "4",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "такие",
+            "ADJF,Apro plur,nomn"
+        ],
+        [
+            "же",
+            "PRCL"
+        ],
+        [
+            "правила",
+            "NOUN,inan,neut plur,accs"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "самовывоза",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "выбором",
+            "NOUN,inan,masc sing,ablt"
+        ],
+        [
+            "точек",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "адресам",
+            "NOUN,inan,masc plur,datv"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "ул",
+            "NOUN,inan,femn,Fixd,Abbr sing,nomn"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Снежная",
+            "ADJF,Qual femn,sing,nomn"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "5",
+            "NUMB,intg"
+        ],
+        [
+            "5",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "База",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "данных",
+            "NOUN,inan,GNdr,Pltm plur,gent"
+        ],
+        [
+            "блюду",
+            "NOUN,inan,neut sing,datv"
+        ],
+        [
+            "Шерегеша",
+            "NOUN,anim,masc,Name sing,gent"
+        ],
+        [
+            "другая",
+            "ADJF,Subx,Apro femn,sing,nomn"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "Потому",
+            "ADVB,Dmns"
+        ],
+        [
+            "что",
+            "CONJ"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "них",
+            "NPRO,3per,Anph plur,gent,Af-p"
+        ],
+        [
+            "другие",
+            "ADJF,Subx,Apro plur,nomn"
+        ],
+        [
+            "характеристики",
+            "NOUN,inan,femn plur,nomn"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            "соответственно",
+            "ADVB"
+        ],
+        [
+            "отображаемые",
+            "PRTF,impf,tran,pres,pssv plur,nomn"
+        ],
+        [
+            "блюда",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "будут",
+            "VERB,impf,intr plur,3per,futr,indc"
+        ],
+        [
+            "не",
+            "PRCL"
+        ],
+        [
+            "такими",
+            "ADJF,Apro plur,ablt"
+        ],
+        [
+            "же",
+            "PRCL"
+        ],
+        [
+            "как",
+            "CONJ"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "всех",
+            "ADJF,Subx,Apro plur,gent"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "сделать",
+            "INFN,perf,tran"
+        ],
+        [
+            "исключение",
+            "NOUN,inan,neut sing,nomn"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "Шерегеша",
+            "NOUN,anim,masc,Name sing,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "4",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Ташкент",
+            "NOUN,inan,masc,Geox sing,nomn"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "1",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "В",
+            "PREP"
+        ],
+        [
+            "корзине",
+            "NOUN,inan,femn sing,datv"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "и",
+            "CONJ"
+        ],
+        [
+            "протестить",
+            "INFN,perf,tran"
+        ],
+        [
+            "поиск",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "адресов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "внутри",
+            "PREP"
+        ],
+        [
+            "Ташкента",
+            "NOUN,inan,masc,Geox sing,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "карты",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "передам",
+            "VERB,perf,tran sing,1per,futr,indc"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Минимальная",
+            "ADJF femn,sing,nomn"
+        ],
+        [
+            "сумма",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "заказа",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Неизвестно",
+            "ADVB"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "2",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "будет",
+            "VERB,impf,intr sing,3per,futr,indc"
+        ],
+        [
+            "интегрировать",
+            "INFN,perf,tran"
+        ],
+        [
+            "экваринг",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "пока",
+            "ADVB"
+        ],
+        [
+            "уточняем",
+            "VERB,impf,tran plur,1per,pres,indc"
+        ],
+        [
+            "какой",
+            "ADJF,Apro femn,sing,loct"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "который",
+            "ADJF,Subx,Apro,Anph masc,sing,nomn"
+        ],
+        [
+            "уже",
+            "ADVB"
+        ],
+        [
+            "реализован",
+            "PRTS,impf,past,pssv masc,sing"
+        ],
+        [
+            "также",
+            "PRCL"
+        ],
+        [
+            "на",
+            "PREP"
+        ],
+        [
+            "сайте",
+            "NOUN,inan,masc sing,loct"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "Чтобы",
+            "CONJ"
+        ],
+        [
+            "подключить",
+            "INFN,perf,tran"
+        ],
+        [
+            "нужно",
+            "PRED,pres"
+        ],
+        [
+            "создать",
+            "INFN,perf,tran"
+        ],
+        [
+            "(",
+            "PNCT"
+        ],
+        [
+            "или",
+            "CONJ"
+        ],
+        [
+            "привязать",
+            "INFN,perf,tran"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "сайта",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            ")",
+            "PNCT"
+        ],
+        [
+            "поддомен",
+            "NOUN,inan,masc sing,nomn"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "Ташкентской",
+            "ADJF,Geox femn,sing,gent"
+        ],
+        [
+            "версии",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "3",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "будет",
+            "VERB,impf,intr sing,3per,futr,indc"
+        ],
+        [
+            "в",
+            "PREP"
+        ],
+        [
+            "корзине",
+            "NOUN,inan,femn sing,datv"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "Ташкента",
+            "NOUN,inan,masc,Geox sing,gent"
+        ],
+        [
+            "изменить",
+            "INFN,perf,tran"
+        ],
+        [
+            "стоимости",
+            "NOUN,inan,femn sing,gent"
+        ],
+        [
+            "пакетов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "приборов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            ",",
+            "PNCT"
+        ],
+        [
+            "валюта",
+            "NOUN,inan,femn sing,nomn"
+        ],
+        [
+            "для",
+            "PREP"
+        ],
+        [
+            "блюд",
+            "NOUN,inan,neut plur,gent"
+        ],
+        [
+            "Сум",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "4",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "По",
+            "PREP"
+        ],
+        [
+            "поводу",
+            "NOUN,inan,masc sing,datv"
+        ],
+        [
+            "расписания",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "режима",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "принятия",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "заказов",
+            "NOUN,inan,masc plur,gent"
+        ],
+        [
+            "Ташкента",
+            "NOUN,inan,masc,Geox sing,gent"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Уточняю",
+            "VERB,impf,tran sing,1per,pres,indc"
+        ],
+        [
+            ".",
+            "PNCT"
+        ]
+    ],
+    [
+        [
+            "5",
+            "NUMB,intg"
+        ],
+        [
+            ".",
+            "PNCT"
+        ],
+        [
+            "Нужно",
+            "PRED,pres"
+        ],
+        [
+            "реализовать",
+            "INFN,perf,tran"
+        ],
+        [
+            "такие",
+            "ADJF,Apro plur,nomn"
+        ],
+        [
+            "же",
+            "PRCL"
+        ],
+        [
+            "правила",
+            "NOUN,inan,neut plur,accs"
+        ],
+        [
+            "у",
+            "PREP"
+        ],
+        [
+            "самовывоза",
+            "NOUN,inan,masc sing,gent"
+        ],
+        [
+            "с",
+            "PREP"
+        ],
+        [
+            "выбором",
+            "NOUN,inan,masc sing,ablt"
+        ],
+        [
+            "точек",
+            "NOUN,inan,femn plur,gent"
+        ],
+        [
+            "по",
+            "PREP"
+        ],
+        [
+            "адресам",
+            "NOUN,inan,masc plur,datv"
+        ],
+        [
+            ":",
+            "PNCT"
+        ],
+        [
+            "Шевченко",
+            "NOUN,anim,ms-f,Fixd,Surn sing,nomn"
+        ],
+        [
+            "21",
+            "NUMB,intg"
+        ],
+        [
+            "а",
+            "CONJ"
+        ],
+        [
+            "…",
+            "PNCT"
+        ],
+        [
+            "По",
+            "PREP"
+        ],
+        [
+            "мере",
+            "NOUN,inan,femn sing,datv"
+        ],
+        [
+            "выполнения",
+            "NOUN,inan,neut sing,gent"
+        ],
+        [
+            "заданий",
+            "NOUN,inan,neut plur,gent"
+        ],
+        [
+            "буду",
+            "VERB,impf,intr sing,1per,futr,indc"
+        ],
+        [
+            "добавлять",
+            "INFN,impf,tran"
+        ],
+        [
+            "города",
+            "NOUN,inan,masc sing,gent"
+        ]
+    ]
+]
