@@ -94,7 +94,8 @@ def bounded(start, stop):
 
 BOUNDED = or_(
     bounded('[', ']'),
-    bounded('«', '»')
+    bounded('«', '»'),
+    bounded('“', '“')
 )
 
 PARENTHESES = rule(bounded('(', ')'))
@@ -103,9 +104,10 @@ PARENTHESES = rule(bounded('(', ')'))
 
 INF_NOUN = rule(
     #  кнопку переключения,
+    PREP_NOUN.optional().repeatable(),
 
     or_(  # прямое и непрямое дополнение в начале предложения
-        PREP_NOUN.optional().repeatable(),
+        PREP_NOUN.optional(),
         N_NP.optional(),
     ),
 
@@ -118,7 +120,9 @@ INF_NOUN = rule(
     ).optional(),
     gram('PRCL').optional(),
 
+    gram('ADVB').optional(),
     gram('INFN'),
+    gram('ADVB').optional(),
 
     gram('PREP').optional(),
     NO.optional(),
@@ -126,8 +130,14 @@ INF_NOUN = rule(
     N_NP.optional(),
 
     NO.optional(),
-
-    DIRECT,
+    or_(
+        DIRECT,
+        rule(
+            DIRECT,
+            in_(['и', 'да', 'плюс']),
+            DIRECT,
+        )
+    ).optional(),
 
     PREP_NOUN.optional().repeatable(),  # непрямое дополнение в конце предложения
 
@@ -154,12 +164,11 @@ INF_SO_THAT = rule(  # для блока "делать так, что/чтобы
     N_NP.optional(),
 
     DIRECT,
-
 )
 
 # -------------------------------------------------------------------------------------------------------------
 
-VERB_US = rule(
+VERB_PL_1PER = rule(
 
     dictionary(['мы']).optional(),
 
@@ -175,7 +184,26 @@ VERB_US = rule(
     INF_NOUN.optional(),
 
     DIRECT.optional(),
+)
 
+# -------------------------------------------------------------------------------------------------------------
+
+VERB_SG_3PER = rule(
+
+gram('NOUN'),
+
+    DIRECT.optional(),
+
+    NO.optional(),
+    and_(
+        gram('VERB'),
+        gram('sing'),
+        gram('3per')
+    ),
+
+    INF_NOUN.optional(),
+
+    DIRECT.optional(),
 )
 
 # -------------------------------------------------------------------------------------------------------------
@@ -194,9 +222,9 @@ IF = rule(  # подчинительная-условная часть посл�
 
 # -------------------------------------------------------------------------------------------------------------
 
-with open('ТЗ - короткое.txt', 'r', encoding='utf-8-sig') as file:
+with open('от ChatGPT.txt', 'r', encoding='utf-8-sig') as file:
     text = file.read()
-parser = Parser(VERB_US)
+parser = Parser(INF_NOUN)
 
 for match in parser.findall(text):
     print([_.value for _ in match.tokens])
