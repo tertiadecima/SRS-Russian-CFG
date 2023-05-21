@@ -14,36 +14,31 @@ from yargy.predicates import gram, dictionary, in_
 
 NO = in_(['не', 'нет', 'ни'])
 
-ADJ_FOR_NOUN = rule(
-    NO.optional(),
-
-    or_(
-        gram('ADJF'),
-        gram('PRTF'),
-    ),
-)
-
 ADVB = rule(
     NO.optional(),
 
     gram('ADVB'),
 )
 
-N_NP = rule(
+ADJ_FOR_NOUN = rule(
     NO.optional(),
 
     or_(
-        rule(
-            ADJ_FOR_NOUN.optional().repeatable(),
-            gram('NOUN'),
-        ),
-        rule(
-            ADJ_FOR_NOUN.optional().repeatable(),
-            gram('NOUN'),
-            ADJ_FOR_NOUN.optional(),
-            gram('NOUN').repeatable()
-        )
-    )
+        gram('ADJF'),
+        gram('PRTF'),
+    ).repeatable(max=3),
+)
+
+N_NP = rule(
+    NO.optional(),
+
+    ADJ_FOR_NOUN.optional(),  # (единый) (визуальный)
+    gram('NOUN').repeatable(max=3),  # каркас (проекта)
+
+    rule(  # мобильного приложения
+        ADJ_FOR_NOUN.optional(),
+        gram('NOUN')
+    ).optional()
 )
 
 PREP_NOUN = rule(
@@ -68,17 +63,11 @@ ANY_VERB = rule(
 
 DIRECT = rule(
     or_(  # прямые дополнения для /что-то/ (выше)
-        rule(
-            ADJ_FOR_NOUN.optional().repeatable(),
-            gram('NOUN').optional(),
-        ),
-        rule(
-            gram('NOUN').repeatable(),
-        ),
+        N_NP,
+
         rule(
             gram('INFN'),
-            ADJ_FOR_NOUN.optional().repeatable(),
-            gram('NOUN').repeatable(),
+            N_NP
         )
     ),
 )
@@ -92,28 +81,27 @@ def bounded(start, stop):
     )
 
 
-BOUNDED = or_(
-    bounded('[', ']'),
+NAME = or_(
     bounded('«', '»'),
-    bounded('“', '“')
+    bounded('“', '“'),
 )
 
-PARENTHESES = rule(bounded('(', ')'))
+PARENTHESES = rule(
+    bounded('(', ')')
+)
 
 # -------------------------------------------------------------------------------------------------------------
 
 INF_NOUN = rule(
-    #  кнопку переключения,
-    PREP_NOUN.optional().repeatable(),
+    PREP_NOUN.optional().repeatable(max=2),  # скорее весего обстоятельство "при N N", "для N"
 
     or_(  # прямое и непрямое дополнение в начале предложения
-        PREP_NOUN.optional(),
-        N_NP.optional(),
-    ),
+        PREP_NOUN,  # поставить в Д.п.?
+        N_NP,
+    ).optional(),
 
     gram('PRCL').optional(),
     NO.optional(),
-
     rule(  # ['надо', 'надо будет', 'нужно', 'нужно будет', 'обязательно', 'должно']
         gram('PRED'),
         dictionary(['будет']).optional()
@@ -124,14 +112,19 @@ INF_NOUN = rule(
     gram('INFN'),
     gram('ADVB').optional(),
 
-    gram('PREP').optional(),
-    NO.optional(),
+    and_(
+        not_(eq('что')),
+        not_(eq('чтобы'))
+    ),
 
-    N_NP.optional(),
+    # gram('PREP').optional(),  # и что ты тут делаешь
+
+    N_NP.optional().repeatable(max=3),
 
     NO.optional(),
-    or_(
+    or_(  # прямое дополнение
         DIRECT,
+
         rule(
             DIRECT,
             in_(['и', 'да', 'плюс']),
@@ -139,7 +132,8 @@ INF_NOUN = rule(
         )
     ).optional(),
 
-    PREP_NOUN.optional().repeatable(),  # непрямое дополнение в конце предложения
+    NO.optional(),
+    PREP_NOUN.optional().repeatable(max=3),  # непрямое дополнение в конце предложения
 
 )
 
@@ -190,7 +184,7 @@ VERB_PL_1PER = rule(
 
 VERB_SG_3PER = rule(
 
-gram('NOUN'),
+    gram('NOUN'),
 
     DIRECT.optional(),
 
@@ -221,8 +215,7 @@ IF = rule(  # подчинительная-условная часть посл�
 )
 
 # -------------------------------------------------------------------------------------------------------------
-
-with open('от ChatGPT.txt', 'r', encoding='utf-8-sig') as file:
+with open('ТЗ - короткое.txt', 'r', encoding='utf-8-sig') as file:
     text = file.read()
 parser = Parser(INF_NOUN)
 
