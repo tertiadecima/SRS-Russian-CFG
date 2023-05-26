@@ -1,16 +1,8 @@
-from yargy.predicates import eq
 from yargy import Parser, rule, and_, or_, not_
+from yargy.predicates import eq
 from yargy.predicates import gram, dictionary, in_
+from yargy.tokenizer import EMAIL_RULE, PHONE_RULE, TokenRule, MorphTokenizer
 
-# CONDITION = rule(
-#     dictionary({'При'}),
-#     gram('NOUN'),
-#     or_(
-#         gram('CONJ'),
-#         gram('PNCT')
-#     ).optional(),
-#     gram('NOUN').optional().repeatable(max=2)
-# )
 
 NO = in_(['не', 'нет', 'ни'])
 
@@ -29,27 +21,17 @@ ADJ_FOR_NOUN = rule(
     ).repeatable(max=3),
 )
 
-N_NP = rule(
-    NO.optional(),
-
-    ADJ_FOR_NOUN.optional(),  # (единый) (визуальный)
-    gram('NOUN').repeatable(max=3),  # каркас (проекта)
-
-    rule(  # мобильного приложения
-        ADJ_FOR_NOUN.optional(),
-        gram('NOUN')
-    ).optional()
+COMPOUND_NOUN = rule(
+    gram('NOUN'),
+    dictionary(['-']),
+    gram('NOUN')
 )
 
-PREP_NOUN = rule(
-    gram('PREP'),
-
-    N_NP,
-
-    rule(
-        gram('CONJ'),
-        N_NP
-    ).optional()
+NOUN = rule(
+    or_(
+        rule(gram('NOUN')),
+        COMPOUND_NOUN
+    )
 )
 
 ANY_VERB = rule(
@@ -58,17 +40,6 @@ ANY_VERB = rule(
     or_(
         gram('VERB'),
         gram('INFN'),
-    ),
-)
-
-DIRECT = rule(
-    or_(  # прямые дополнения для /что-то/ (выше)
-        N_NP,
-
-        rule(
-            gram('INFN'),
-            N_NP
-        )
     ),
 )
 
@@ -89,6 +60,53 @@ NAME = or_(
 PARENTHESES = rule(
     bounded('(', ')')
 )
+
+# -------------------------------------------------------------------------------------------------------------
+
+N_NP = rule(
+    NO.optional(),
+
+    ADJ_FOR_NOUN.optional(),  # (единый) (визуальный)
+    NOUN.repeatable(max=3),  # каркас (проекта)
+
+    rule(  # мобильного приложения
+        ADJ_FOR_NOUN.optional(),
+        NOUN
+    ).optional()
+)
+
+PREP_NOUN = rule(
+    gram('PREP'),
+
+    N_NP,
+
+    rule(
+        gram('CONJ'),
+        N_NP
+    ).optional()
+)
+
+DIRECT = rule(
+    or_(  # прямые дополнения для /что-то/ (выше)
+        N_NP,
+
+        rule(
+            gram('INFN'),
+            N_NP
+        )
+    ),
+)
+
+
+# CONDITION = rule(
+#     dictionary({'При'}),
+#     gram('NOUN'),
+#     or_(
+#         gram('CONJ'),
+#         gram('PNCT')
+#     ).optional(),
+#     gram('NOUN').optional().repeatable(max=2)
+# )
 
 # -------------------------------------------------------------------------------------------------------------
 
@@ -142,6 +160,7 @@ INF_NOUN = rule(
 CONJ = in_(['что', 'чтобы', 'что бы'])
 
 INF_SO_THAT = rule(  # для блока "делать так, что/чтобы", "надо, чтобы"
+    gram('INFN').optional(),
 
     CONJ,
 
@@ -166,7 +185,10 @@ VERB_PL_1PER = rule(
 
     dictionary(['мы']).optional(),
 
-    DIRECT.optional(),
+    # and_(
+    #     DIRECT,
+    #     rule(gram('accs')),
+    # ).optionsl(),
 
     NO.optional(),
     and_(
@@ -217,7 +239,15 @@ IF = rule(  # подчинительная-условная часть посл�
 # -------------------------------------------------------------------------------------------------------------
 with open('ТЗ - короткое.txt', 'r', encoding='utf-8-sig') as file:
     text = file.read()
+
+HTTP_RULE = TokenRule('HTTP', 'https?:\\/\\/(?:www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b(?:[-a-zA-Z0-9()@:%_\\+.~#?&\\/=]*)')
+tokenizer = MorphTokenizer().add_rules(EMAIL_RULE, PHONE_RULE, HTTP_RULE)
+# print(list(tokenizer(text)))
 parser = Parser(INF_NOUN)
 
 for match in parser.findall(text):
+    # line = ''
+    # for _ in match.tokens:for _ in match.tokens
+    #     line += _.value
+    # print(line)
     print([_.value for _ in match.tokens])
