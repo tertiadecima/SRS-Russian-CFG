@@ -233,7 +233,12 @@ SECOND_PART = rule(  # сочинительная часть после запя
 )
 
 IF = rule(  # подчинительная-условная часть после запятой
+    dictionary(['если']),
 
+    or_(
+        INF_NOUN,
+        INF_SO_THAT
+    )
 )
 
 # -------------------------------------------------------------------------------------------------------------
@@ -243,7 +248,14 @@ with open('ТЗ - короткое.txt', 'r', encoding='utf-8-sig') as file:
 HTTP_RULE = TokenRule('HTTP', 'https?:\\/\\/(?:www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b(?:[-a-zA-Z0-9()@:%_\\+.~#?&\\/=]*)')
 tokenizer = MorphTokenizer().add_rules(EMAIL_RULE, PHONE_RULE, HTTP_RULE)
 # print(list(tokenizer(text)))
-parser = Parser(INF_NOUN)
+
+ALL_PATTERNS = or_(
+    INF_NOUN,
+    INF_SO_THAT,
+    VERB_PL_1PER,
+    VERB_SG_3PER
+)
+parser = Parser(ALL_PATTERNS)
 
 for match in parser.findall(text):
     # line = ''

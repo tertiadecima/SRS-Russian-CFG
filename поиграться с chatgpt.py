@@ -1,45 +1,79 @@
-from yargy.predicates import gram
 from yargy import Parser, rule, or_
+from yargy.predicates import gram, is_capitalized
 
 # Define the grammar rules
-from yargy.relations import gnc_relation
-
-ADJ = gram('ADJF')
 NOUN = gram('NOUN')
-PREP = gram('PREP')
+PRONOUN = gram('NPRO')
+VERB = gram('VERB')
 
-gnc = gnc_relation()
-
-# Define the parsing rule
-rule_sentence = rule(
-    or_(
-        rule(PREP, ADJ.optional().repeatable().match(gnc)),
-        rule(ADJ.optional().repeatable())
-    ),
-    NOUN.repeatable().match(gnc),
-    or_(
-        rule(PREP, ADJ.optional().repeatable()),
-        rule(ADJ.optional().repeatable())
-    ),
-    NOUN.optional().repeatable(),
-)
-
-# Define the input sentences
-input_sentences = ["Создать единый визуальный каркас",
-                   "Заложить основы идентификации городов",
-                   "Реализовать пространство для баннеров по макету"]
-
-TEST = rule(
-    gram('INFN'),
-    rule_sentence
+# Define the parsing rule for a simple sentence
+simple_sentence = rule(
+    is_capitalized(),  # Subject starts with a capital letter
+    or_(NOUN, PRONOUN),  # Subject can be a noun or a pronoun
+    VERB  # Predicate is a verb
 )
 
 # Initialize the parser
-parser = Parser(TEST)
 
-# Extract the output results
-output_results = []
-for sentence in input_sentences:
-    matches = parser.findall(sentence)
-    for match in matches:
-        print([_.value for _ in match.tokens])
+ADJ = or_(gram('ADJF'), gram('ADJS'))
+NOUN_MODIFIER = ADJ.repeatable()
+
+# Update the parsing rule for a simple sentence
+simple_sentence = rule(
+    is_capitalized(),
+    NOUN_MODIFIER.optional(),
+    or_(NOUN, PRONOUN),
+    VERB,
+    NOUN.optional()  # Optional direct object
+)
+
+# Initialize the parser
+
+PREP = gram('PREP')
+PREP_PHRASE = rule(
+    PREP,
+    NOUN_MODIFIER.optional(),
+    NOUN
+)
+
+# Update the parsing rule for a simple sentence
+simple_sentence = rule(
+    is_capitalized(),
+    NOUN_MODIFIER.optional(),
+    or_(NOUN, PRONOUN),
+    VERB,
+    NOUN.optional(),
+    PREP_PHRASE.optional()  # Optional prepositional phrase
+)
+
+# Initialize the parser
+
+CONJ = gram('CONJ')
+
+# Define the parsing rule for a subordinate clause
+subordinate_clause = rule(
+    CONJ,
+    simple_sentence
+)
+
+# Update the parsing rule for a simple sentence
+simple_sentence = rule(
+    is_capitalized(),
+    NOUN_MODIFIER.optional(),
+    or_(NOUN, PRONOUN),
+    VERB,
+    NOUN.optional(),
+    PREP_PHRASE.optional(),
+    subordinate_clause.optional()  # Optional subordinate clause
+)
+
+# Initialize the parser
+parser = Parser(simple_sentence)
+
+# Define the input sentences
+with open('ТЗ - короткое.txt', 'r', encoding='utf-8-sig') as file:
+    text = file.read()
+
+for match in parser.findall(text):
+    print([_.value for _ in match.tokens])
+
